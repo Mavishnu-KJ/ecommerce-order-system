@@ -1,4 +1,4 @@
-package com.example.productservice.model.entity;
+package com.mavishnu.ecommerce.user.productservice.model.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

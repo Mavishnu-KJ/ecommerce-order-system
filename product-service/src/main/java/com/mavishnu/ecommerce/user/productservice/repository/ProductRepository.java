@@ -1,6 +1,6 @@
-package com.example.productservice.repository;
+package com.mavishnu.ecommerce.user.productservice.repository;
 
-import com.example.productservice.model.entity.Product;
+import com.mavishnu.ecommerce.user.productservice.model.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

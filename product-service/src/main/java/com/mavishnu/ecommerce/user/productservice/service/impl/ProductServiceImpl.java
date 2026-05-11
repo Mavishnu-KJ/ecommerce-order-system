@@ -1,4 +1,4 @@
-package com.example.productservice.service.impl;
+package com.mavishnu.ecommerce.user.productservice.service.impl;
 
 import org.springframework.stereotype.Service;
 

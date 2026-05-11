@@ -1,7 +1,7 @@
-package com.example.productservice.service;
+package com.mavishnu.ecommerce.user.productservice.service;
 
-import com.example.productservice.model.dto.ProductRequestDto;
-import com.example.productservice.model.dto.ProductResponseDto;
+import com.mavishnu.ecommerce.user.productservice.model.dto.ProductRequestDto;
+import com.mavishnu.ecommerce.user.productservice.model.dto.ProductResponseDto;
 
 import java.util.List;
 

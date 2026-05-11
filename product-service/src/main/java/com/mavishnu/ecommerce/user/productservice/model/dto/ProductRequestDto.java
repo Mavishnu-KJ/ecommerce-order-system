@@ -1,4 +1,4 @@
-package com.example.productservice.model.dto;
+package com.mavishnu.ecommerce.user.productservice.model.dto;
 
 import jakarta.persistence.Column;
 import jakarta.validation.constraints.Min;
