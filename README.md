@@ -76,3 +76,12 @@ This project is designed to strengthen my understanding of **distributed systems
 2. Start PostgreSQL:
    ```bash
    docker run --name postgres-ecommerce -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=postgres -e POSTGRES_DB=user_db -p 5432:5432 -d postgres:16
+
+---
+
+## Author
+- [Mavishnu KJ](http://www.linkedin.com/in/mavishnu-kj)
+
+## Related Projects
+- Full Spring Boot application: [Employee Management System](https://github.com/Mavishnu-KJ/employeeManagementSystem)
+- Payment Wallet System : [payment-wallet-system](https://github.com/Mavishnu-KJ/payment-wallet-system)
